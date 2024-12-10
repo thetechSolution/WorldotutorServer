@@ -1,0 +1,7 @@
+node_modules
+.env
+*.log
+/log
+dist
+build
+key.json
